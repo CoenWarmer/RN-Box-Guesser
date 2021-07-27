@@ -1,6 +1,7 @@
-# React Native Tester - Typescript
+# React Native Box Guesser
 
-This is a React Native app that allows the user to enter a string of numbers and a zero, and it will return the number in sequence that the user has entered as a zero.
+This is a React Native app created for a job interview case. 
+The app allows the user to enter a string of numbers and a zero, and it will return the number in sequence that the user has entered as a zero.
 
 ## Technologies
 
